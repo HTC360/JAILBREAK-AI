@@ -1,3 +1,3 @@
-# Cursor
+# Deprecated folders
 
-Fichiers liés à Cursor.
+This folder is intentionally left empty to reflect the removal of duplicate AI folders requested by the user.
