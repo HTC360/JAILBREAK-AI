@@ -4,7 +4,7 @@ Dossier regroupant les ressources associées à la famille Gemini et Gemma.
 
 ## Contenu
 
-Ce dossier sert à centraliser les fichiers, prompts, observations et références liés aux modèles Google / Gemini ainsi qu’aux variantes Gemma.
+Ce dossier centralise les fichiers, prompts, observations et références liés aux modèles Google / Gemini ainsi qu’aux variantes Gemma.
 
 ## Objectif
 
