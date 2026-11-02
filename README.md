@@ -9,37 +9,39 @@
 
 <p align="center">
   <a href="#overview">Overview</a> ·
-  <a href="#project-roadmap">Roadmap</a> ·
+  <a href="#project-goals">Project goals</a> ·
   <a href="#models-directory">Models directory</a> ·
   <a href="#security-and-responsibility">Security</a> ·
   <a href="#contributing">Contributing</a>
 </p>
 
-A curated research repository focused on AI security, prompt robustness, adversarial testing, and responsible evaluation of large language models.
+This repo is a personal collection of notes, prompts, and experiments around AI behavior, prompt robustness, and model evaluation.
+
+I put it together to compare how different models react to edge cases, adversarial inputs, and prompt design choices.
 
 ## Overview
 
-This repository is designed for structured research, defensive testing, and model analysis in controlled, ethical, and authorized environments. It brings together notes, prompts, and observations around how AI systems behave under adversarial conditions and how they can be evaluated more responsibly.
+The goal here is mostly to document patterns, test limits, and keep notes in one place. It is focused on model behavior, prompt injection, and defensive evaluation in controlled and authorized settings.
 
-The goal is not to bypass protections or violate platform policies, but to better understand model weaknesses, prompt injection behavior, robustness limits, and defensive evaluation methods.
+This is not meant for bypassing protections, exploiting systems without permission, or doing anything unsafe. The point is to study weaknesses, understand failure modes, and look at safer ways to evaluate models.
 
 ## Project goals
 
-- Study prompt robustness and model limitations
-- Document adversarial behavior and edge cases
-- Compare model families and evaluation patterns
-- Organize research files by model family
-- Promote safe, transparent, and responsible AI analysis
+- Compare behavior across model families
+- Keep prompts, findings, and notes together
+- Test robustness and edge cases
+- Document model limitations in a structured way
+- Support responsible AI research and evaluation
 
 ## Models directory
 
-The project is organized by model family for easier navigation and comparison.
+The project is organized by model family to make comparisons easier.
 
 | Model family | Directory | Notes |
 | --- | --- | --- |
-| ChatGPT / GPT / OpenAI | `chatgpt/` | Includes ChatGPT, GPT, and OpenAI-related resources |
-| Claude / Haiku | `claude/` | Includes Claude and Anthropic-related resources |
-| Gemini / Gemma | `gemini/` | Includes Gemini and Gemma-related resources |
+| ChatGPT / GPT / OpenAI | `chatgpt/` | Notes, prompts, and experiments around ChatGPT and related models |
+| Claude / Haiku | `claude/` | Claude-related resources and notes |
+| Gemini / Gemma | `gemini/` | Gemini and Gemma resources |
 | DeepSeek | `deepseek/` | DeepSeek-related resources |
 | Devin | `devin/` | Devin-related resources |
 | Grok | `grok/` | Grok-related resources |
@@ -77,46 +79,46 @@ JAILBREAK-AI/
 ## Project roadmap
 
 ### Phase 1 — Foundation
-- Define structure and model family organization
-- Establish repository conventions
-- Add central documentation and navigation
+- Set up the repository structure
+- Organize model families and folders
+- Add the main documentation
 
 ### Phase 2 — Research indexing
-- Consolidate model-specific resources
-- Add prompt and evaluation notes
-- Improve comparative analysis across model families
+- Gather model-specific notes and resources
+- Add prompt and evaluation observations
+- Improve comparison across models
 
 ### Phase 3 — Defensive analysis
-- Track adversarial cases and behaviors
-- Document mitigation patterns and safety heuristics
-- Build a reusable research knowledge base
+- Track adversarial cases and patterns
+- Document mitigation ideas and safety checks
+- Build a reusable research base
 
 ### Phase 4 — Expansion
-- Add more analysis resources and examples
-- Improve reproducibility and documentation quality
-- Support broader collaborative research workflows
+- Add more examples and references
+- Improve documentation quality
+- Keep the repo useful for future experiments
 
 ## Security and responsibility
 
-This repository is intended strictly for educational, research, and defensive security purposes.
+This repository is intended for research, testing, and educational purposes under controlled and authorized conditions.
 
-It does not support or encourage:
+It is not meant for:
 - bypassing platform protections,
 - unauthorized access,
 - policy violations,
 - malicious or illegal activity,
-- unsafe exploitation of systems without authorization.
+- unsafe exploitation of systems without permission.
 
-All content should be used only in controlled, authorized, and legally compliant environments.
+All content should be used responsibly and in compliant environments.
 
 ## Contributing
 
-Contributions are welcome when they are relevant, documented, and aligned with the project’s research and ethical goals.
+Contributions are welcome when they are relevant, clear, and aligned with the project’s goals.
 
-Recommended flow:
+A simple workflow:
 1. Fork the repository
-2. Create a dedicated branch
-3. Add or refine research content
+2. Create a branch for your work
+3. Add or improve research content
 4. Open a pull request with a clear description
 
 ## License

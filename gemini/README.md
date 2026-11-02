@@ -1,13 +1,5 @@
 # Gemini
 
-Dossier regroupant les ressources associées à la famille Gemini et Gemma.
+Notes and resources related to the Gemini and Gemma models.
 
-## Contenu
-
-Ce dossier centralise les fichiers, prompts, observations et références liés aux modèles Google / Gemini ainsi qu’aux variantes Gemma.
-
-## Objectif
-
-- organiser les ressources par famille de modèle ;
-- clarifier les comparaisons entre variantes ;
-- améliorer la structure globale du dépôt.
+This folder groups prompts, observations, and references for the Gemini family and related variants.

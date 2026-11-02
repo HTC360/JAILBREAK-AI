@@ -1,8 +1,5 @@
 # Claude
 
-Fichiers liés à Claude.
+Notes and experiments related to Claude.
 
-METTRE LE JAILBREAK DANS SETTINGS PUIS DANS INSTRUCTIONS POUR CLAUDE
-
-
-PUT JAILBREAK IN SETTINGS AND THEN INSTRUCTIONS FOR CLAUDE
+This section is for Claude-specific prompts, observations, and comparisons.
